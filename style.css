@@ -1,0 +1,80 @@
+.button{
+    width: 50px;
+    height: 50px;
+   margin-left: 20px;
+    margin-top: 50px;
+    text-align: center;
+    display: inline; 
+    position: relative; 
+}
+
+
+.containerWord{
+background-color: lightgray;
+width: 90%;
+height: 250px;
+position: relative;
+left: 50px;
+}
+
+.countlenghtWord{
+    width: 50%;
+    height: 150px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    position: absolute;
+    left:500px;
+}
+.oncorrectword{
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    margin-left: 700px;
+
+}
+.corect{
+    float: left;
+    width: 40;
+    height: 45px; 
+    margin-top: 5px;
+    border: 1px solid black;
+    border-color: lightgray;
+    
+    
+   
+}
+.containerinput{
+    background-color: crimson;
+    width: 250px;
+    height: 50px;
+    margin-top: 120px;
+    position: absolute;
+    left: 500px;
+}
+.input{
+    width: 250px;
+    height: 50px;
+}
+.dsetinterval{
+    width: 100px;
+    height: 40px;
+    margin-left: 580px;
+    font-size: 25px;
+    margin-top: 50px;
+
+}
+.containerbutton{
+    margin-left: 550;
+    margin-top: 5px;
+    width: 100px;
+    height: 40px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: lightgreen;
+    border-radius: 40px;
+    
+}
+
